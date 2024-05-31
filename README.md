@@ -1,4 +1,18 @@
-### Hi there 👋
+### 👋 关于我
+前 Minecraft 中文 Wiki 编者，前 MCBBS 幻翼快讯/识海漫谈 版译者，MCD 汉化修正包译者之一。现在正在持续更新 PCL2 的新闻主页。
+
+[Teahouse-Studios](https://github.com/Teahouse-Studios) 的成员，曾参与 [梗体中文](https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack) 的内容扩展和 [小可](https://github.com/Teahouse-Studios/akari-bot) 部分模块的开发
+
+### 🔭 我正在做什么
+* [PCL2新闻主页](https://github.com/Light-Beacon/PCL2-NewsHomepage) - 在PCl2上提供最新的MC新闻
+* [PCL2主页构建器](https://github.com/Light-Beacon/HomepageBuilder) - 维护复杂 PCL2 主页的构建器
+
+### 🌱 我正在学什么
+* 学校功课
+* 其它语言
+
+### 📫 如何联系我
+你可以通过向 lightbeacon@qq.com 发邮件联系我
 
 <!--
 **Light-Beacon/Light-Beacon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -12,7 +12,7 @@
 * 其它语言
 
 ### 📫 如何联系我
-你可以通过向 lightbeacon@qq.com 发邮件联系我
+你可以通过向 lightbeacon@bugjump.net 发邮件联系我
 
 <!--
 **Light-Beacon/Light-Beacon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

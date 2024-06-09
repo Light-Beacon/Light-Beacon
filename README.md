@@ -14,7 +14,7 @@
 ### 📫 如何联系我
 你可以通过向 lightbeacon@bugjump.net 发邮件联系我
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Light-Beacon&hide=xml,markdown)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Light-Beacon&layout=compact&hide=xml,markdown)
 
 <!--
 **Light-Beacon/Light-Beacon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

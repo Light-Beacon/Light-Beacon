@@ -1,5 +1,5 @@
 ### 👋 关于我
-前 中文 Minecraft Wiki 编者，前 MCBBS 幻翼快讯/识海漫谈 版译者，MCD 汉化修正包译者之一。现在正在持续更新 PCL2 的新闻主页。
+前 [中文 Minecraft Wiki](https://zh.minecraft.wiki) 编者，前 MCBBS 幻翼快讯/识海漫谈 版译者，MCD 汉化修正包译者之一。现在正在持续更新 PCL2 的新闻主页。
 
 [Teahouse-Studios](https://github.com/Teahouse-Studios) 的成员，曾参与 [梗体中文](https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack) 的内容扩展和 [小可](https://github.com/Teahouse-Studios/akari-bot) 部分模块的开发
 

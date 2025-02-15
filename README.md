@@ -17,7 +17,7 @@ You can contact me via lightbeacon@bugjump.net
 [Teahouse-Studios](https://github.com/Teahouse-Studios) 的成员，曾参与 [梗体中文](https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack) 的内容扩展和 [小可](https://github.com/Teahouse-Studios/akari-bot) 部分模块的开发
 
 ### 🔭 我正在做什么
-* [PCL2新闻主页](https://github.com/Light-Beacon/PCL2-NewsHomepage) - 在PCl2上提供最新的MC新闻
+* [PCL2新闻主页](https://github.com/Light-Beacon/PCL2-NewsHomepage) - 在 PCL2 上提供最新的 MC 新闻
 * [PCL2主页构建器](https://github.com/Light-Beacon/HomepageBuilder) - 维护复杂 PCL2 主页的构建器
 
 ### 🌱 我正在学什么

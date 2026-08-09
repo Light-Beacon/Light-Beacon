@@ -20,10 +20,6 @@ You can contact me via lightbeacon@bugjump.net
 * [PCL2新闻主页](https://github.com/Light-Beacon/PCL2-NewsHomepage) - 在PCl2上提供最新的MC新闻
 * [PCL2主页构建器](https://github.com/Light-Beacon/HomepageBuilder) - 维护复杂 PCL2 主页的构建器
 
-### 🌱 我正在学什么
-* 学校功课
-* 其它语言
-
 ### 📫 如何联系我
 你可以通过向 lightbeacon@bugjump.net 发邮件联系我
 
